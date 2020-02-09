@@ -1,0 +1,9 @@
+C:\usr\CSharp\src\MathPlot\MathPlot\bin\Debug\MathPlot.exe.config
+C:\usr\CSharp\src\MathPlot\MathPlot\bin\Debug\MathPlot.exe
+C:\usr\CSharp\src\MathPlot\MathPlot\bin\Debug\MathPlot.pdb
+C:\usr\CSharp\src\MathPlot\MathPlot\obj\Debug\MathPlot.csprojAssemblyReference.cache
+C:\usr\CSharp\src\MathPlot\MathPlot\obj\Debug\MathPlot.Properties.Resources.resources
+C:\usr\CSharp\src\MathPlot\MathPlot\obj\Debug\MathPlot.csproj.GenerateResource.cache
+C:\usr\CSharp\src\MathPlot\MathPlot\obj\Debug\MathPlot.exe
+C:\usr\CSharp\src\MathPlot\MathPlot\obj\Debug\MathPlot.pdb
+C:\usr\CSharp\src\MathPlot\MathPlot\obj\Debug\MathPlot.Form1.resources
